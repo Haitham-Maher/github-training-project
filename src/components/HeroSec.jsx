@@ -17,7 +17,7 @@ function HeroSec() {
           transition={{ duration: 0.6, delay: 4 }}
           className="text-4xl font-bold text-transparent bg-gradient-to-r from-secondary to-text_light bg-clip-text md:text-5xl"
         >
-          Frontend Developer
+          Frontend Developer 
         </motion.h1>
 
         {/* Subtitle */}
