@@ -17,7 +17,7 @@ function HeroSec() {
           transition={{ duration: 0.6, delay: 4 }}
           className="text-4xl font-bold text-transparent bg-gradient-to-r from-secondary to-text_light bg-clip-text md:text-5xl"
         >
-          Frontend Developer 
+         Frontend Developer 
         </motion.h1>
 
         {/* Subtitle */}
@@ -25,7 +25,7 @@ function HeroSec() {
           initial={{ y: 40, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 4.2, duration: 0.6 }}
-          className="mt-2 text-2xl font-semibold md:text-3xl"
+          className="mt-2 text-2xl font-semibold md:text-3xl "
         >
           Hi! I'm Haitham Maher{" "}
         </motion.h2>
