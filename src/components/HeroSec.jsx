@@ -33,10 +33,10 @@ function HeroSec() {
         <motion.div
           initial={{ y: 40, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
-          transition={{ delay: 4.2, duration: 0.6 }}
+          transition={{  delay: 4.2, duration: 0.6 }}
         >
           <ReactTyped
-            className="mt-2 text-2xl font-semibold md:text-3xl text-text_muted"
+            className="mt-2  text-2xl font-semibold md:text-3xl text-text_muted"
             strings={["Software Developer ", "Front End Developer "]}
             typeSpeed={50}
             backSpeed={30}
