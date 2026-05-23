@@ -37,7 +37,7 @@ function HeroSec() {
         >
           <ReactTyped
             className="mt-2 text-2xl font-semibold md:text-3xl text-text_muted"
-            strings={["Software Developer", "Front End Developer "]}
+            strings={["Software Developer ", "Front End Developer "]}
             typeSpeed={50}
             backSpeed={30}
             loop
